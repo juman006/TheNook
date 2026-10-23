@@ -1,0 +1,30 @@
+Colored Pens/Stationary/s1.jpg/10.0/China
+Note Books/Stationary/s2.jpg/15.0/UK
+Sticky Notes/Stationary/s3.jpg/3.0/Japan
+Highlighters/Stationary/s4.jpg/8.0/Korea
+White Paper Clips/Stationary/s5.jpg/5.0/Ireland
+Pencil Case/Stationary/s6.jpg/20.0/USA
+Lamp/Home Decor/h1.jpg/60.0/USA
+Chair/Home Decor/h2.jpg/120.0/UK
+Clock/Home Decor/h3.jpg/55.0/Italy
+Gold Trash Can/Home Decor/h4.jpg/50.0/Spain
+Cloud Pillow/Home Decor/h5.jpg/40.0/Japan
+Mirror/Home Decor/h6.jpg/100.0/India
+Gold & White Bracelet/Accessories/a1.jpg/30.0/Russia
+Silver Bow Ring/Accessories/a2.jpg/25.0/Canada
+Gold Snake Watch/Accessories/a3.jpg/50.0/Brazil
+Black Sunglasses/Accessories/a4.jpg/40.0/Taiwan
+Flower Hair Clip/Accessories/a5.jpg/15.0/Hawaii
+Silver Earings/Accessories/a6.jpg/25.0/Korea
+Face Rollers/Self Care/c1.jpg/15.0/Italy
+Hair Brush/Self Care/c2.jpg/20.0/UAE
+Candle/Self Care/c3.jpg/10.0/Spain
+Face Masks/Self Care/c4.jpg/10.0/Korea
+Perfume/Self Care/c5.jpg/40.0/USA
+Headband/Self Care/c6.jpg/20.0/Thailand
+Cat Mug/Cute Mugs/m1.jpg/30.0/USA
+PinkBear Mug/Cute Mugs/m2.jpg/35.0/UK
+Brown Bear Mug/Cute Mugs/m3.jpg/25.0/Japan
+Cow Mug/Cute Mugs/m4.jpg/35.0/India
+Snoopy Mug/Cute Mugs/m5.jpg/25.0/China
+Brown Bears Mug/Cute Mugs/m6.jpg/25.0/Ireland

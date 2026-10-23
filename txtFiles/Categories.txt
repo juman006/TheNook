@@ -1,0 +1,5 @@
+Stationary/stationary.png
+Home Decor/home decor.png
+Accessories/accessories.png
+Self Care/selfcare.png
+Cute Mugs/Cute Mugs.png
